@@ -1,3 +1,5 @@
+[![Code Climate](https://codeclimate.com/github/bradjenn/npm-only/badges/gpa.svg)](https://codeclimate.com/github/bradjenn/npm-only)
+
 # NPM only project
 An experimental project using npm only to develop a client side app. No more gulp
 
